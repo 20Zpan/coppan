@@ -1,5 +1,5 @@
-title: "My Simple Jekyll Blog"
-description: "A simple blog about coding and tech"
+title: "我的 My Simple Jekyll Blog"
+description: "一个 A simple blog about coding and tech"
 baseurl: "/coppan" # Base path for the project
 url: "https://20Zpan.github.io" # GitHub Pages URL
 theme: minima
