@@ -5,7 +5,7 @@ date: 2025-05-18
 categories: [blog]
 ---
 
-This is an example article for my new Jekyll blog.
+这是  This is an example article for my new Jekyll blog.
 
 Here’s a simple code snippet:
 
